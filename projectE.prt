@@ -1,0 +1,201 @@
+ BELLHOP/BELLHOP3D
+
+ BELLHOP3D- projectR                                                             
+ frequency =   1000.     Hz
+
+ Dummy parameter NMedia =            1
+
+     Hexahedral approximation to SSP
+     Attenuation units: dB/wavelength
+     VACUUM
+
+ Depth =      30.00 m
+
+ Sound speed profile:
+   z (m)     alphaR (m/s)   betaR  rho (g/cm^3)  alphaI     betaI
+
+      0.00      1500.00      0.00     1.00       0.0000    0.0000
+      0.48      1500.00      0.00     1.00       0.0000    0.0000
+      0.95      1500.00      0.00     1.00       0.0000    0.0000
+      1.43      1500.00      0.00     1.00       0.0000    0.0000
+      1.90      1500.00      0.00     1.00       0.0000    0.0000
+      2.38      1500.00      0.00     1.00       0.0000    0.0000
+      2.86      1500.00      0.00     1.00       0.0000    0.0000
+      3.33      1500.00      0.00     1.00       0.0000    0.0000
+      3.81      1500.00      0.00     1.00       0.0000    0.0000
+      4.29      1500.00      0.00     1.00       0.0000    0.0000
+      4.76      1500.00      0.00     1.00       0.0000    0.0000
+      5.24      1500.00      0.00     1.00       0.0000    0.0000
+      5.71      1500.00      0.00     1.00       0.0000    0.0000
+      6.19      1500.00      0.00     1.00       0.0000    0.0000
+      6.67      1500.00      0.00     1.00       0.0000    0.0000
+      7.14      1500.00      0.00     1.00       0.0000    0.0000
+      7.62      1500.00      0.00     1.00       0.0000    0.0000
+      8.10      1500.00      0.00     1.00       0.0000    0.0000
+      8.57      1500.00      0.00     1.00       0.0000    0.0000
+      9.05      1500.00      0.00     1.00       0.0000    0.0000
+      9.52      1500.00      0.00     1.00       0.0000    0.0000
+     10.00      1500.00      0.00     1.00       0.0000    0.0000
+     10.48      1500.00      0.00     1.00       0.0000    0.0000
+     10.95      1500.00      0.00     1.00       0.0000    0.0000
+     11.43      1500.00      0.00     1.00       0.0000    0.0000
+     11.90      1500.00      0.00     1.00       0.0000    0.0000
+     12.38      1500.00      0.00     1.00       0.0000    0.0000
+     12.86      1500.00      0.00     1.00       0.0000    0.0000
+     13.33      1500.00      0.00     1.00       0.0000    0.0000
+     13.81      1500.00      0.00     1.00       0.0000    0.0000
+     14.29      1500.00      0.00     1.00       0.0000    0.0000
+     14.76      1500.00      0.00     1.00       0.0000    0.0000
+     15.24      1500.00      0.00     1.00       0.0000    0.0000
+     15.71      1500.00      0.00     1.00       0.0000    0.0000
+     16.19      1500.00      0.00     1.00       0.0000    0.0000
+     16.67      1500.00      0.00     1.00       0.0000    0.0000
+     17.14      1500.00      0.00     1.00       0.0000    0.0000
+     17.62      1500.00      0.00     1.00       0.0000    0.0000
+     18.10      1500.00      0.00     1.00       0.0000    0.0000
+     18.57      1500.00      0.00     1.00       0.0000    0.0000
+     19.05      1500.00      0.00     1.00       0.0000    0.0000
+     19.52      1500.00      0.00     1.00       0.0000    0.0000
+     20.00      1500.00      0.00     1.00       0.0000    0.0000
+     20.48      1500.00      0.00     1.00       0.0000    0.0000
+     20.95      1500.00      0.00     1.00       0.0000    0.0000
+     21.43      1500.00      0.00     1.00       0.0000    0.0000
+     21.90      1500.00      0.00     1.00       0.0000    0.0000
+     22.38      1500.00      0.00     1.00       0.0000    0.0000
+     22.86      1500.00      0.00     1.00       0.0000    0.0000
+     23.33      1500.00      0.00     1.00       0.0000    0.0000
+     23.81      1500.00      0.00     1.00       0.0000    0.0000
+     24.29      1500.00      0.00     1.00       0.0000    0.0000
+     24.76      1500.00      0.00     1.00       0.0000    0.0000
+     25.24      1500.00      0.00     1.00       0.0000    0.0000
+     25.71      1500.00      0.00     1.00       0.0000    0.0000
+     26.19      1500.00      0.00     1.00       0.0000    0.0000
+     26.67      1500.00      0.00     1.00       0.0000    0.0000
+     27.14      1500.00      0.00     1.00       0.0000    0.0000
+     27.62      1500.00      0.00     1.00       0.0000    0.0000
+     28.10      1500.00      0.00     1.00       0.0000    0.0000
+     28.57      1500.00      0.00     1.00       0.0000    0.0000
+     29.05      1500.00      0.00     1.00       0.0000    0.0000
+     29.52      1500.00      0.00     1.00       0.0000    0.0000
+     30.00      1500.00      0.00     1.00       0.0000    0.0000
+
+ Reading sound speed profile from file
+
+ Number of points in x =          530
+
+ Number of points in y =          305
+
+ Number of points in z =           64
+
+
+                                 ( RMS roughness =   0.00     )
+     Bathymetry file selected
+     ACOUSTO-ELASTIC half-space
+     30.00      1500.00      0.00     1.80       0.8000    0.0000
+
+ __________________________________________________________________________
+
+ Number of source   x-coordinates, Sx =            1
+ source   x-coordinates, Sx (km)
+   0.00000    
+
+
+ __________________________________________________________________________
+
+ Number of source   y-coordinates, Sy =            1
+ source   y-coordinates, Sy (km)
+   0.00000    
+
+
+ __________________________________________________________________________
+
+ Number of Source   depths, Sz =            1
+ Source   depths, Sz (m)
+   10.0000    
+
+
+ __________________________________________________________________________
+
+ Number of Receiver depths, Rz =            2
+ Receiver depths, Rz (m)
+   0.00000       15.0000    
+
+
+ __________________________________________________________________________
+
+ Number of Receiver ranges, Rr =            2
+ Receiver ranges, Rr (km)
+  0.200000      0.300000    
+
+
+ __________________________________________________________________________
+
+ Number of receiver bearings, theta =            6
+ receiver bearings, theta (degrees)
+   0.00000       72.0000       144.000       216.000       288.000    
+   360.000    
+
+
+ Eigenray trace run
+ Geometric hat beams in Cartesian coordinates
+ Point source (cylindrical coordinates)
+ Rectilinear receiver grid: Receivers at Rr( : ) x Rz( : )
+ __________________________________________________________________________
+
+ Number of beams in elevation   =            7
+ Beam take-off angles (degrees)
+  -15.0000      -10.0000      -5.00000       0.00000       5.00000    
+   10.0000       15.0000    
+
+ Replacing beam take-off angles, beta, with receiver bearing lines, theta
+
+ Number of beams in bearing   =            5
+ Beam take-off angles (degrees)
+   0.00000       72.0000       144.000       216.000       288.000    
+
+ __________________________________________________________________________
+
+
+ Step length,       deltas =  0.5000     m
+
+ Maximum ray x-range, Box%x =   400.0     m
+ Maximum ray y-range, Box%y =   400.0     m
+ Maximum ray z-range, Box%z =   35.00     m
+ No beam shift in effect
+
+ *********************************
+ Using bottom-bathymetry file
+ Regular grid for a 3D run
+
+ Number of bathymetry points in x-direction           2
+ -0.800000      0.800000    
+
+ Number of bathymetry points in y-direction           2
+ -0.800000      0.800000    
+
+
+
+xs =    0.00         0.00         10.0    
+
+ Geometric beam, hat-shaped, Cart. coord.                                        
+ HalfWidth1  =    0.0000000000000000     
+ HalfWidth2  =    0.0000000000000000     
+ epsilonOPT1 =  (  0.0000000000000000     ,  0.0000000000000000     )
+ epsilonOPT2 =  (  0.0000000000000000     ,  0.0000000000000000     )
+ EpsMult     =    1.0000000000000000     
+
+Tracing azimuthal beam    1      0.00
+ Warning in TraceRay2D : Insufficient storage for ray trajectory
+ Angles are  alpha =    0.0000000000000000          beta =    0.0000000000000000     
+Tracing azimuthal beam    2     72.00
+Tracing azimuthal beam    3    144.00
+ Warning in TraceRay2D : Insufficient storage for ray trajectory
+ Angles are  alpha =    0.0000000000000000          beta =    143.99999999999997     
+Tracing azimuthal beam    4    216.00
+ Warning in TraceRay2D : Insufficient storage for ray trajectory
+ Angles are  alpha =    0.0000000000000000          beta =    216.00000000000000     
+Tracing azimuthal beam    5    288.00
+ Warning in TraceRay2D : Insufficient storage for ray trajectory
+ Angles are  alpha =    0.0000000000000000          beta =    287.99999999999994     
+
+ CPU Time =       0.656    s
